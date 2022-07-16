@@ -1,4 +1,4 @@
-public class Main {
+public class Parte_1 {
     public static void main(String[] args) {
         int numeroIf = 80;
         if ( numeroIf >=0 ){ // 3 > 0 = positivo
@@ -10,6 +10,4 @@ public class Main {
             System.out.println("es 0");
         }
     }
-
-    }
-
+}
