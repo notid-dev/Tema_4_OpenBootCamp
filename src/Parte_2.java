@@ -8,3 +8,8 @@ public class Parte_2 {
 
     }
 }
+
+/* crear la variable = valor
+ * verifica la condicion
+ * Si la condicion se cumple
+ * ejecuta la accion*/
